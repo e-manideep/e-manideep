@@ -25,7 +25,7 @@ I'm an Undergrad Student🎓 [@IIT Madras] pursuing Data Science and Programming
 - 👯 I’m looking to collaborate on making projects on AI,ML,DS
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, ML, CV, DS.
-- 📙 Check out my [Resume](www.linkedin.com/in/mani-deep-e)
+- 📙 Check out my [Resume](https://www.linkedin.com/in/mani-deep-e)
 - 🎉 Fun-Fact: I ❤️ Quantum Physics
 
 
