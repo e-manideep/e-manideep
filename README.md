@@ -6,7 +6,6 @@
 ![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mani-deep-e/)
 ![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)
-
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)
 
 ### A Little About Me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
@@ -24,7 +23,7 @@ I'm an Undergrad Student🎓 [@IIT Madras] pursuing Data Science and Programming
   - Graphic Designing
 - 👯 I’m looking to collaborate on making projects on AI,ML,DS
 - 🤔 I’m looking for help with Devops
-- 💬 Ask me about Python, ML, CV, DS.
+- 💬 Ask me about Python, ML,AI, DS.
 - 📙 Check out my [Resume](https://www.linkedin.com/in/mani-deep-e)
 - 🎉 Fun-Fact: I ❤️ Quantum Physics
 
