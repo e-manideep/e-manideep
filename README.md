@@ -3,7 +3,6 @@
 </h1>
 
 ### 📬 Find me at
-![Github Badge](https://github.com/e-manideep)
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mani-deep-e/)
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)
 
